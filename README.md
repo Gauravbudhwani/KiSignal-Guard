@@ -5,7 +5,7 @@
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Tests](https://img.shields.io/badge/tests-13%20passed-brightgreen.svg)]()
 
-> **FOSSEE eSim Semester Long Internship 2026**  
+> **FOSSEE eSim Winter Semester Internship 2026**  
 > **Submission for Task 6: KiCad Plugin Development (CSE and related fields)**
 
 ---
@@ -141,5 +141,5 @@ SEVERITY   RULE ID    NET NAME               DIAGNOSTIC ISSUE
 ## 📜 License & Author
 
 - **Author:** Candidate for eSim Semester Long Internship 2026
-- **Contact:** contact-esim@fossee.in
+- **Contact:** budhwani.24mip10087@vitbhopal.ac.in
 - **License:** GNU General Public License v3.0 (GPL-3.0-or-later)
